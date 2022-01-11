@@ -1,0 +1,9 @@
+srno,Name,Roll no.,fathername,mother,dob,address ,TEST,Maths1,English1,Physics1,Chemistry1,com/hin1,PE1,midterms,Maths2,English2,Physics2,Chemistry2,com/hin2,PE2,finals,Maths3,English3,Physics3,Chemistry3,com/hin3,PE3
+1,Amrita Singh Jaudon,10,ammu's father,ammu's mother,10-12-97,,I,80,95,85,80,79,50,II,80,95,85,80,79,60,III,80,95,85,80,79,51
+2,Nimesh Kharat,34,nimmi's father ,nimmi's mom,28-03-97,,I,70,76,69,78,80,56,II,70,76,69,78,80,62,III,70,76,69,78,80,65
+3,Jhalak Kakani,23,j's father,j's mom,13-12-97,,I,75,78,79,74,85,59,II,75,78,79,74,85,61,III,75,78,79,74,85,60
+4,Himanshu Mishra,22,HM's father,HM's mom,10-08-96,,I,88,65,79,65,87,56,II,88,65,79,65,87,63,III,88,65,79,65,87,55
+5,Akash Verma,6,akki's father,akki's mom,05-12-96,,I,95,80,85,62,90,51,II,95,80,85,62,90,64,III,95,80,85,62,90,65
+6,Nidhi Ahirwar,35,NA's father,NA's mom,16-03-96,,I,76,70,85,88,92.9,55,II,76,70,85,88,92.9,65,III,76,70,85,88,92.9,74
+7,Shweta Pancholi,52,SP's father,SP's mom,25-05-96,,I,78,75,79,52.2,95.8,52,II,78,75,79,52.2,95.8,66,III,78,75,79,52.2,95.8,66
+8,Hemant Singh D,21,H's father ,H's mom,23-11-95,,I,65,88,79,47.3,98.7,55,II,65,88,79,47.3,98.7,67,III,65,88,79,47.3,98.7,85
